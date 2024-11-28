@@ -1,0 +1,12 @@
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.deps.json
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.pdb
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.AssemblyInfoInputs.cache
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.AssemblyInfo.cs
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.csproj.CoreCompileInputs.cache
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/refint/Movies.Application.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.pdb
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/ref/Movies.Application.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.csproj.AssemblyReference.cache

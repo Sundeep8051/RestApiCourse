@@ -1,0 +1,11 @@
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.deps.json
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/bin/Debug/net8.0/Movies.Contracts.pdb
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfoInputs.cache
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.AssemblyInfo.cs
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/refint/Movies.Contracts.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.pdb
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/ref/Movies.Contracts.dll

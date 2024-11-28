@@ -10,3 +10,4 @@
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.pdb
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/ref/Movies.Application.dll
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.csproj.AssemblyReference.cache
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.sourcelink.json

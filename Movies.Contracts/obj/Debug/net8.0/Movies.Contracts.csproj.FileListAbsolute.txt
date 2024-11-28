@@ -9,3 +9,4 @@
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/refint/Movies.Contracts.dll
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.pdb
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/ref/Movies.Contracts.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/Debug/net8.0/Movies.Contracts.sourcelink.json

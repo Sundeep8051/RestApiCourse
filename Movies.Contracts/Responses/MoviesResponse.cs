@@ -1,6 +1,6 @@
 namespace Movies.Contracts.Responses;
 
-public class MovieResponses
+public class MoviesResponse
 {
     public IEnumerable<MovieResponse> Movies { get; init; } = [];
 }

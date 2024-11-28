@@ -36,6 +36,6 @@ public class MovieRepository : IMovieRepository
     public Task<bool> DeleteAsync(Guid id)
     {
         var removedCount = _movies.RemoveAll(m => m.Id == id);
-        return Task.FromResult(removedCount == 0);
+        return Task.FromResult(removedCount > 0);
     }
 }

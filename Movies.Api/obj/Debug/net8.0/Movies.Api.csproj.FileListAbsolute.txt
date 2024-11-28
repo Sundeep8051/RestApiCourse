@@ -35,3 +35,4 @@
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Api/obj/Debug/net8.0/Movies.Api.genruntimeconfig.cache
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Api/obj/Debug/net8.0/ref/Movies.Api.dll
 /Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Api/obj/Debug/net8.0/Movies.Api.sourcelink.json

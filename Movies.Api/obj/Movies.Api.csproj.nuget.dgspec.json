@@ -13,6 +13,7 @@
         "packagesPath": "/Users/sundeepmanibhushan/.nuget/packages/",
         "outputPath": "/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Api/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sundeepmanibhushan/.nuget/NuGet/NuGet.Config"
         ],
@@ -87,6 +88,7 @@
         "packagesPath": "/Users/sundeepmanibhushan/.nuget/packages/",
         "outputPath": "/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sundeepmanibhushan/.nuget/NuGet/NuGet.Config"
         ],
@@ -159,6 +161,7 @@
         "packagesPath": "/Users/sundeepmanibhushan/.nuget/packages/",
         "outputPath": "/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Contracts/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sundeepmanibhushan/.nuget/NuGet/NuGet.Config"
         ],

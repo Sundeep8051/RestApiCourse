@@ -13,6 +13,7 @@
         "packagesPath": "/Users/sundeepmanibhushan/.nuget/packages/",
         "outputPath": "/Users/sundeepmanibhushan/MySpace/Learn/dotnet/RestApiCourse/Movies.Application/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sundeepmanibhushan/.nuget/NuGet/NuGet.Config"
         ],

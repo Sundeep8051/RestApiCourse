@@ -6,14 +6,14 @@ using Movies.Contracts.Requests;
 namespace Movies.Api.Controllers;
 
 [ApiController]
-public class MoviesController(IMovieRepository movieRepository) : ControllerBase
+public class MoviesController(IMovieSqlRepository movieSqlRepository) : ControllerBase
 {
     [HttpPost(ApiEndpoints.Movies.Create)]
     public async Task<IActionResult> Create([FromBody] CreateMovieRequest request)
     {
         var movie = request.MapToMovie();
         
-        await movieRepository.CreateAsync(movie);
+        await movieSqlRepository.CreateAsync(movie);
         return CreatedAtAction(nameof(Get), new {idOrSlug = movie.Id},  movie.MapToMovieResponse());
     }
 
@@ -21,15 +21,15 @@ public class MoviesController(IMovieRepository movieRepository) : ControllerBase
     public async Task<IActionResult> Get([FromRoute] string idOrSlug)
     {
         var movie = Guid.TryParse(idOrSlug, out var id) 
-            ? await movieRepository.GetByIdAsync(id)
-            : await movieRepository.GetBySlugAsync(idOrSlug);
+            ? await movieSqlRepository.GetByIdAsync(id)
+            : await movieSqlRepository.GetBySlugAsync(idOrSlug);
         return Ok(movie?.MapToMovieResponse());
     }
 
     [HttpGet(ApiEndpoints.Movies.GetAll)]
     public async Task<IActionResult> GetAll()
     {
-        var movies = await movieRepository.GetAllAsync();
+        var movies = await movieSqlRepository.GetAllAsync();
         return Ok(movies.MapToMoviesResponse());
     }
 
@@ -37,14 +37,14 @@ public class MoviesController(IMovieRepository movieRepository) : ControllerBase
     public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateMovieRequest request)
     {
         var movie = request.MapToMovie(id);
-        var result = await movieRepository.UpdateAsync(movie);
+        var result = await movieSqlRepository.UpdateAsync(movie);
         return result ? Ok(movie.MapToMovieResponse()) : NotFound();
     }
 
     [HttpDelete(ApiEndpoints.Movies.Delete)]
     public async Task<IActionResult> Delete([FromRoute] Guid id)
     {
-        var result = await movieRepository.DeleteAsync(id);
+        var result = await movieSqlRepository.DeleteAsync(id);
         return result ? Ok() : NotFound();
     }
 }

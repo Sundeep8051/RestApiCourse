@@ -27,5 +27,11 @@ public class DbInitializer
               CREATE UNIQUE INDEX CONCURRENTLY 
               IF NOT EXISTS movies_idx ON movies using btree(slug);
               """);
+
+        await connection.ExecuteAsync("""
+                                      CREATE TABLE IF NOT EXISTS genres (
+                                          movieId UUID references movies (id),
+                                          name TEXT NOT NULL);
+                                      """);
     }
 }

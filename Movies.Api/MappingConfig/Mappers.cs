@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using Movies.Application.Models;
 using Movies.Contracts.Requests;
 using Movies.Contracts.Responses;
